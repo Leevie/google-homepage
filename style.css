@@ -1,4 +1,7 @@
-
+main{
+    display: flex;
+    font-family: Helvetica, monospace;
+}
 
 #header{
     height: 20%;
@@ -17,4 +20,11 @@
     padding: 6px;
     border: 2px dotted black;
 
+}
+
+#search-box{
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    border: 1px solid orangered;
+    width: 200px;
 }
